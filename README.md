@@ -1,4 +1,7 @@
-# todo-app
+# todo-app-vue
+# https://jsonplaceholder.typicode.com/users/1
+# https://fakestoreapi.com/products
+# https://fakestoreapi.com/products/${props.id}
 
 ## Project setup
 ```
